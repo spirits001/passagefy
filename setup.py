@@ -5,7 +5,7 @@ setuptools.setup(
     name="passagefy",  # 模块名称
     version="1.0.0",  # 当前版本
     author="代码厨子",  # 作者
-    author_email="15755153@qq.com",  # 作者邮箱
+    author_email="hofeng@aqifun.com",  # 作者邮箱
     description="“通途”是一个基于Django的应用，帮助用户创建一个技术反馈表，并且与飞书的多维表格进行同步",  # 模块简介
     long_description=long_description,  # 模块详细介绍
     long_description_content_type="text/markdown",  # 模块详细介绍格式
