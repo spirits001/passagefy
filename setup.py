@@ -26,5 +26,5 @@ setuptools.setup(
         'requests',
         'djangorestframework-simplejwt'
     ],
-    python_requires='>=3',
+    python_requires='>=3.7',
 )
